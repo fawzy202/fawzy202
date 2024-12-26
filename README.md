@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fawzy Mohamed  
+- 👋 Hi, I’m Fawzy Mohamed  
 - 👀 I’m interested in the AI field, particularly in Machine Learning and Deep Learning.  
 - 🌱 I’m currently learning advanced AI techniques and exploring their applications in real-world projects.  
 - 💞️ I’m looking to collaborate on innovative AI projects that solve meaningful problems.  
