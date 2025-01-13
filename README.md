@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate developer and AI enthusiast with a keen interest in Machine Learning and  Deep Learning. I enjoy exploring the latest advancements in AI and leveraging them to create solutions for real-world challenges. I believe in the transformative power of Artificial Intelligence to improve lives and solve meaningful problems. My goal is to contribute to innovative projects that have a tangible impact on society.</p>
+<h4 align="left">I'm a passionate developer and AI enthusiast with a keen interest in Machine Learning and  Deep Learning. I enjoy exploring the latest advancements in AI and leveraging them to create solutions for real-world challenges. I believe in the transformative power of Artificial Intelligence to improve lives and solve meaningful problems. My goal is to contribute to innovative projects that have a tangible impact on society.</h4>
 
 ###
 
@@ -14,17 +14,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fawzy202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawzy202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=fawzy202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawzy202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawzy202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=fawzy202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=fawzy202&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/fawzy202/count.svg?"  />
 </div>
 
 ###
@@ -112,6 +108,10 @@
 ###
 
 <h3 align="left">My Social</h3>
+
+###
+
+<p align="left">----------------------------------------</p>
 
 ###
 
